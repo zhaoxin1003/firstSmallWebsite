@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+}
+.head{
+    height: 50px;
+}
+.footer{
+    background-color: #cbcbcb;
+    margin-top: 100px;
+}
+.content{
+    margin-top: 100px;
+}
+.logo{
+    width: 30px;
+    height: 29px;
+    margin-top: -5px;
+}
+.mybanner{
+    padding-top: 250px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.banner-background{
+    height: 888px;
+    width: 100%;
+    background: url(../img/banner-bg.jpg);
+    background-size: cover;
+    background-color: rgba(255,255,255,0.5);
+}
+.mycontainer-fluid {
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row-position{
+    padding-top: 70px;
+}
+.ul-position{
+    padding-top: 172px;
+}
